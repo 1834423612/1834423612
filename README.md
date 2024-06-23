@@ -12,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <div align="left">
 
+![Version](https://placehold.co/100x40/orange/white?text=V+24.623.1&font=oswald)
+  </div>
+</div>
 
 <!-- Avatar 头像内容 -->
 <div align="center">
