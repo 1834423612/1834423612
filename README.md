@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div>
   <div align="left">
 
-![Version](https://placehold.co/100x40/orange/white?text=V+24.627.1&font=oswald)
+![Version](https://placehold.co/100x40/orange/white?text=V+24.628.2&font=oswald)
   </div>
 </div>
 
@@ -196,10 +196,17 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/kjch0720" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
 </div>  
   
 
+<!-- kjchmc.cn 个人主页名片 -->
+<div align="center">
+<a href="https://www.kjchmc.cn/" target="_blank"><img src="https://github.com/1834423612/1834423612/assets/49981661/54530053-add6-42de-8ef3-e6224bb45848" height="200" style="margin-top: 40px;" /></a>
+</div>
+
 <br/>  
+
 
 
 ## Github Stats  
