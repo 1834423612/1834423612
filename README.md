@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div>
   <div align="left">
 
-![Version](https://placehold.co/100x40/orange/white?text=V+24.623.1&font=oswald)
+![Version](https://placehold.co/100x40/orange/white?text=V+24.627.1&font=oswald)
   </div>
 </div>
 
@@ -106,6 +106,7 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" height="50" /></a>  
 <a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
 </div>
 
@@ -128,7 +129,6 @@ Here are some ideas to get you started:
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -145,6 +145,7 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.microsoft.com/windows" target="_blank"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" height="50" /></a>  
 <a href="https://www.android.com/" target="_blank"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" alt="Android" height="65" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 
 <a href="https://www.ubuntu.com/" target="_blank"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" height="120" /></a>
 <a href="https://www.centos.org/" target="_blank"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg" alt="CentOS" height="120" /></a>
@@ -174,6 +175,8 @@ Here are some ideas to get you started:
 
 <a href="https://waf-ce.chaitin.cn/" target="_blank"><img style="margin: 10px" src="https://waf-ce.chaitin.cn/images/safeline.svg" alt="雷池WAF" height="50" /></a>
 <a href="https://bt.cn" target="_blank"><img style="margin: 10px" src="https://www.bt.cn/static/new/images/logo.svg" alt="BT Panel" height="50" /></a>  
+
+<a href="https://www.vmware.com/products/vsphere.html" target="_blank"><img style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original-wordmark.svg" alt="VSphere" height="80"/></a>
 </div>
 
 </td></tr></table>  
