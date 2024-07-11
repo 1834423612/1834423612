@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div>
   <div align="left">
 
-![Version](https://placehold.co/100x40/orange/white?text=V+24.628.2&font=oswald)
+![Version](https://placehold.co/100x40/orange/white?text=V+24.711.1&font=oswald)
   </div>
 </div>
 
@@ -74,6 +74,10 @@ Here are some ideas to get you started:
 
 
 ## 我会的东西/了解的技术栈 (My Skill Set) 
+下面有些包括了我初学或是刚刚掌握一定基础的内容，还有一部分是我已经熟练可以运用了（多半是网站前端、各类工具及设计软件）  
+Some of the following include that I'm just starting to learn or have just gotten some basic skills, and some already have skilled use (mostly website front-end, bunch of software, and design software)  
+
+
 <table><tr><td valign="top" width="33%">
 
 ### 前端 Frontend  
@@ -97,7 +101,7 @@ Here are some ideas to get you started:
 
 
 
-### 后端 Backend  
+### 后端/编程语言 Backend/Programming Language  
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -107,6 +111,7 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" height="50" /></a>  
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp" height="50" /></a>    
 <a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
 </div>
 
@@ -214,9 +219,3 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->
-<br />
