@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div>
   <div align="left">
 
-![Version](https://placehold.co/100x40/orange/white?text=V+24.711.1&font=oswald)
+![Version](https://placehold.co/100x40/orange/white?text=V+24.715.1&font=oswald)
   </div>
 </div>
 
@@ -167,6 +167,8 @@ Some of the following include that I'm just starting to learn or have just gotte
 <a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" alt="Dreamweaver " height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.autodesk.com/products/autocad/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="AutoCAD" height="50" /></a>  
+<a href="https://www.solidworks.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="SolidWorks" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
